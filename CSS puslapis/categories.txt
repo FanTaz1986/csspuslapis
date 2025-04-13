@@ -1,0 +1,36 @@
+.categories {
+    margin-top: 2rem;
+
+    h2 {
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+
+    .category-grid {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+        .category {
+            @include product-card(16%);
+            margin-bottom: 1rem;
+
+            &__icon {
+                font-size: 2rem;
+                margin-bottom: 0.5rem;
+            }
+        }
+    }
+
+    @media (max-width: 768px) {
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+
+            .category {
+                @include product-card(100%);
+            }
+        }
+    }
+}

@@ -1,0 +1,55 @@
+i need a online shop page
+header have exlusive in right side mid section have home contacts about and fashion 
+then we have on a right we have bar asking what are you looking for,  log in button, like button and cart button
+
+we have text in a left named "our story" and picture on a right taking a same space like text 
+
+then we have ,explore our products, in a center  
+and 4 picture in a row bellow showing tech product, product have small heart in right top corner for likes
+
+under picture is name and price
+
+below this we have ,browse by category,
+and 6 boxes having symbol for different product category 
+phone ,computer ,smartwach , cameras, headphones, gaming , all have name below symbol
+
+under it it 4x3 gird size pictures
+first picture take grid from 1,2,5,6 grid squar, under it picture take 9,10 squares , then one picture take 3,4 squares, and one picture take 7 and 11 grid, and  8 and 12 have one small separate picture
+
+under grid it have 3 small circles
+one have small van inside of it, and under it say free and fast delivery , one have headphones in a circle and under it say  24/7 customer service and last have small shield and under it is money back guarantee
+
+footer have in left side have small box it have enter you email and small arrow 
+have 4 blocks from left to right
+support box and address below
+account and it have stuff like my account, log in register cart
+quick link and under it privacy policy
+term of use 
+FAQ
+last in a right have download app and QR code
+
+all page have phone version too
+header is now is hamburger meniu
+our story text is one block ands picture is under it
+
+product have 2x2 grid now
+
+categories is in 2x3 grid now
+
+
+picture grid is now 2x6 , right side of grid is moved in bottom 
+3 circles now staked vertically
+footer is 2x3 grid and have button to expand 
+
+
+
+do not use javasript, give styles.css info at the bottom 
+must use 
+tačiau būtinai turi būti panaudota visi šie įrankiai ir priemonės išvardinti žemiau
+Flex
+Grid
+media queries
+SASS (bent 2 mixins ir kintamieji)
+BEM
+BootStrap (komponentai, kaip pvz. akordeonas, karuselė)
+Pozicionavimo (position) savybė

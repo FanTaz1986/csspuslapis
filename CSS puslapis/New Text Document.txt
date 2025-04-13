@@ -1,0 +1,13 @@
+Konkrečiai neįvardinu, kurios dalys kaip turi būti aprašytos, palieku jūsų laisvam pasirinkimui, tačiau būtinai turi būti panaudota visi šie įrankiai ir priemonės išvardinti žemiau:
+Flex
+Grid
+media queries
+SASS (bent 2 mixins ir kintamieji)
+BEM
+BootStrap (komponentai, kaip pvz. akordeonas, karuselė)
+Pozicionavimo (position) savybė
+
+Kodo repozitorijos nuorodą prisegti ir grąžinti prie šios užduoties, nepamirškit pateikti.
+Darbą taip pat reikės pristatyti gyvai, reflektuojant kaip sekėsi, papasakojant ką, darėt, kodėl rinkotės vienokį ar kitokį sprendimą konkrečiu atveju.
+
+SĖKMĖS!
